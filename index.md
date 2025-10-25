@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Baby's First GitSite: Welcome to My Bloggy-Bloo
 ---
 
